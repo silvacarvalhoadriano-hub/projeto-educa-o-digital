@@ -7,7 +7,12 @@
 <title>Document</title>
 </head>
 <body>
+    <header>
+    </header>
 <h1>Meu blog tech</h1>
 <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
+<h2>Meu primeiro post</h2>
+<p>POR: Adriano</p>
+<p> Boas - vindas ao meu novo blog! aqui vou compartilhar dicas de programação e curiosodades da area dda tecnollogia.</p>
 </body>
 </html>
